@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#3B0F8C</color>
+    <color name="dark">#12002E</color>
+    <color name="yellow">#FFD60A</color>
+    <color name="pink">#FF3DA5</color>
+    <color name="cyan">#22D3EE</color>
+    <color name="lime">#A3E635</color>
+    <color name="orange">#FF7A00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="track">#3B2A5C</color>
+    <color name="light">#EDE7F6</color>
+    <color name="disabled">#8B80A8</color>
+</resources>

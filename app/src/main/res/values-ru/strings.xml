@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Какой я пердёж</string>
+    <string name="title_top">КАКОЙ Я</string>
+    <string name="title_big">ПЕРДЁЖ?</string>
+    <string name="photo_hint">ТУТ БУДЕТ\nТВОЁ ФОТО</string>
+    <string name="btn_photo">СФОТКАТЬ!</string>
+    <string name="btn_retake">ПЕРЕСНЯТЬ</string>
+    <string name="btn_which">КАКОЙ Я ПЕРДЁЖ?</string>
+    <string name="loading_title">ЗАРЯЖАЕМ\nПУКОМЁТ...</string>
+    <string name="loading_tip">Не дыши! Почти готово!</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="result_title">ТВОЙ ПЕРДЁЖ:</string>
+    <string name="power">МОЩНОСТЬ</string>
+    <string name="power_value" formatted="true">%1$d/10</string>
+    <string name="tap_to_listen">ЖМИ, ЧТОБЫ ПОСЛУШАТЬ</string>
+    <string name="play">Послушать</string>
+    <string name="btn_share">ПОДЕЛИТЬСЯ</string>
+    <string name="btn_again">ЕЩЁ РАЗ!</string>
+    <string name="no_face">Лицо не найдено. Сфоткай ещё раз!</string>
+    <string name="no_camera">Не найдено приложение камеры</string>
+    <string name="error">Что-то пошло не так. Попробуй ещё раз!</string>
+    <string name="share_title">Поделиться</string>
+    <string name="share_text" formatted="true">Мой пердёж — «%1$s»! А какой ты?</string>
+    <string name="card_label">МОЙ ПЕРДЁЖ:</string>
+    <string name="card_brand">КАКОЙ Я ПЕРДЁЖ?</string>
+    <string name="card_you">А ТЫ?</string>
+    <string name="card_power" formatted="true">МОЩНОСТЬ %1$d/10</string>
+    <string name="name_01">Радужный салют</string>
+    <string name="desc_01">Громкий и праздничный, как фейерверк! Ты сегодня просто сияешь.</string>
+    <string name="name_02">Весёлый свисток</string>
+    <string name="desc_02">Звонкий и задорный. Слышно на всю квартиру!</string>
+    <string name="name_03">Пузырьковый смешок</string>
+    <string name="desc_03">Лёгкий и игривый, как газировка с хорошим настроением.</string>
+    <string name="name_04">Бодрый моторчик</string>
+    <string name="desc_04">Уверенный и энергичный. Заводится с пол-оборота!</string>
+    <string name="name_05">Озорной гудок</string>
+    <string name="desc_05">Немного хулиганский. Никто не ждал, а он уже здесь.</string>
+    <string name="name_06">Задумчивый пуф</string>
+    <string name="desc_06">Спокойный и философский. Думает о чём-то своём.</string>
+    <string name="name_07">Сонный шмель</string>
+    <string name="desc_07">Протяжный и ленивый. Ему бы поспать.</string>
+    <string name="name_08">Тихий вздох</string>
+    <string name="desc_08">Скромный и немного печальный. Почти незаметный.</string>
+    <string name="name_09">Дождливая туба</string>
+    <string name="desc_09">Низкий и хмурый, как осенний вечер.</string>
+    <string name="name_10">Грустный тромбон</string>
+    <string name="desc_10">Самый низкий и самый печальный. Обнимите этого человека!</string>
+</resources>

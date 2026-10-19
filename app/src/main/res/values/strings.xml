@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What Fart Am I</string>
+    <string name="title_top">WHAT FART</string>
+    <string name="title_big">AM I?</string>
+    <string name="photo_hint">YOUR PHOTO\nGOES HERE</string>
+    <string name="btn_photo">SNAP IT!</string>
+    <string name="btn_retake">SNAP AGAIN</string>
+    <string name="btn_which">WHAT FART AM I?</string>
+    <string name="loading_title">LOADING THE\nFART CANNON...</string>
+    <string name="loading_tip">Hold your breath! Almost there!</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="result_title">YOUR FART:</string>
+    <string name="power">POWER</string>
+    <string name="power_value" formatted="true">%1$d/10</string>
+    <string name="tap_to_listen">TAP TO LISTEN</string>
+    <string name="play">Play</string>
+    <string name="btn_share">SHARE</string>
+    <string name="btn_again">AGAIN!</string>
+    <string name="no_face">No face found. Snap again!</string>
+    <string name="no_camera">No camera app found</string>
+    <string name="error">Something went wrong. Try again!</string>
+    <string name="share_title">Share</string>
+    <string name="share_text" formatted="true">My fart is «%1$s»! What is yours?</string>
+    <string name="card_label">MY FART:</string>
+    <string name="card_brand">WHAT FART AM I?</string>
+    <string name="card_you">AND YOU?</string>
+    <string name="card_power" formatted="true">POWER %1$d/10</string>
+    <string name="name_01">Rainbow Salute</string>
+    <string name="desc_01">Loud and festive, like fireworks! You are shining today.</string>
+    <string name="name_02">Happy Whistle</string>
+    <string name="desc_02">Bright and cheeky. The whole house can hear it!</string>
+    <string name="name_03">Giggle Bubbles</string>
+    <string name="desc_03">Light and playful, like soda in a good mood.</string>
+    <string name="name_04">Peppy Motor</string>
+    <string name="desc_04">Confident and full of energy. Starts on the first try!</string>
+    <string name="name_05">Cheeky Honk</string>
+    <string name="desc_05">A bit of a troublemaker. Nobody expected it, but here it is.</string>
+    <string name="name_06">Thoughtful Puff</string>
+    <string name="desc_06">Calm and philosophical. Lost in its own thoughts.</string>
+    <string name="name_07">Sleepy Bumblebee</string>
+    <string name="desc_07">Long and lazy. It really needs a nap.</string>
+    <string name="name_08">Quiet Sigh</string>
+    <string name="desc_08">Shy and a little sad. Almost unnoticed.</string>
+    <string name="name_09">Rainy Tuba</string>
+    <string name="desc_09">Low and gloomy, like an autumn evening.</string>
+    <string name="name_10">Sad Trombone</string>
+    <string name="desc_10">The lowest and saddest of all. Somebody hug this person!</string>
+</resources>
