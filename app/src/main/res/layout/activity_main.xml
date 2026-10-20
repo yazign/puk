@@ -5,15 +5,10 @@
     android:background="@color/purple">
 
     <!-- ЭКРАН 1: СТАРТ -->
-    <ScrollView
-        android:id="@+id/screenStart"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:fillViewport="true">
-
         <LinearLayout
+            android:id="@+id/screenStart"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:gravity="center_horizontal"
             android:orientation="vertical"
             android:padding="22dp">
@@ -105,13 +100,11 @@
             <Button
                 android:id="@+id/btnWhich"
                 style="@style/ArcadeButton"
-                android:layout_marginTop="14dp"
                 android:background="@drawable/bg_btn_yellow"
-                android:enabled="false"
+                android:visibility="gone"
                 android:text="@string/btn_which"
                 android:textColor="@color/dark" />
         </LinearLayout>
-    </ScrollView>
 
     <!-- ЭКРАН 2: ЗАГРУЗКА -->
     <ScrollView
