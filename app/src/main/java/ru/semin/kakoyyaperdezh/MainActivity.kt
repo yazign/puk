@@ -196,8 +196,8 @@ class MainActivity : AppCompatActivity() {
         photoBitmap = bmp
         photoView.setImageBitmap(bmp)
         photoHint.visibility = View.GONE
-        btnPhoto.setText(R.string.btn_retake)
-        btnWhich.isEnabled = true
+        btnPhoto.visibility = View.GONE
+        btnWhich.visibility = View.VISIBLE
         // Сам файл больше не нужен — удаляем сразу
         deletePhotoFile()
     }
@@ -451,8 +451,8 @@ class MainActivity : AppCompatActivity() {
             photoBitmap = null
             photoView.setImageDrawable(null)
             photoHint.visibility = View.VISIBLE
-            btnPhoto.setText(R.string.btn_photo)
-            btnWhich.isEnabled = false
+            btnPhoto.visibility = View.VISIBLE
+            btnWhich.visibility = View.GONE
         }
         show(screenStart)
     }
